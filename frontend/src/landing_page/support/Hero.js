@@ -5,7 +5,7 @@ function Hero() {
         <section className='container-fluid' id='supportHero'>
             <div className='p-3' id='supportWrapper'>
                 <h1 className='text-center'>Support Portal</h1>
-                <a href='/#'>Track Tickets</a>
+                <a href=''>Track Tickets</a>
             </div>
             <div className='row p-5'>
                 <div className='col-6 p-5'>
