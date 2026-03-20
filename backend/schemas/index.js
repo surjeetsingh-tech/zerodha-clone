@@ -15,8 +15,6 @@ const uri = process.env.MONGO_URL;
 const app = express();
 app.use(express.json());
 
-const cors = require("cors");
-
 app.use(cors({
   origin: [
     "https://zerodha-clone-il9b.vercel.app",
