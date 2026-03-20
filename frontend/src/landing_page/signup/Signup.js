@@ -7,14 +7,14 @@ export default function Signup() {
 
   const handleSignup = async () => {
     try{
-    const res = await axios.post("http://localhost:3002/signup", {
+    const res = await axios.post("https://zerodha-clone-4-oxqz.onrender.com/signup", {
       email,
       password
     });
 
     alert(res.data.msg);
 
-    window.location.href = "/login";
+    window.location.href = "https://zerodha-clone-il9b.vercel.app/login";
 
      } catch (err) {
       alert(err.response?.data?.msg || "Signup failed");
