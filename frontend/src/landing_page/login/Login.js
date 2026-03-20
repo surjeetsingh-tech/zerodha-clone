@@ -7,7 +7,7 @@ export default function Login() {
 
   const handleLogin = async () => {
     try {
-      const res = await axios.post("https://zerodha-clone-4-oxqz.onrender.com", {
+      const res = await axios.post("https://zerodha-clone-4-oxqz.onrender.com/login", {
         email,
         password
       });
