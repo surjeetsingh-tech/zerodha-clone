@@ -13,9 +13,21 @@ const PORT = process.env.PORT || 3002;
 const uri = process.env.MONGO_URL;
 
 const app = express();
-
-app.use(cors());
 app.use(express.json());
+
+const cors = require("cors");
+
+app.use(cors({
+  origin: [
+    "https://zerodha-clone-il9b.vercel.app",
+    "https://zerodha-clone-f9jt.vercel.app"
+  ],
+  methods: ["GET", "POST", "PUT", "DELETE"],
+  credentials: true
+}));
+
+
+
 
 // app.get("/addHoldings", async (req, res) => {
 //   let tempHoldings = [
