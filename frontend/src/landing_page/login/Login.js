@@ -18,7 +18,7 @@ export default function Login() {
 
       alert("Login success");
 
-    window.location.href = "http://localhost:3000";
+    window.location.href = "https://zerodha-clone-4-oxqz.onrender.com";
     console.log("TOKEN FROM BACKEND:", res.data.token);
 
     } catch (err) {
