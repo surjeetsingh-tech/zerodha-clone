@@ -26,13 +26,11 @@ Database: MongoDB
 📸 Screenshots
 
 <p align="center">
-  <img src="<img width="1308" height="634" alt="image" src="https://github.com/user-attachments/assets/86beb1b5-614d-49d0-b2bb-9f2a9e43d628" />
-  <img src="<img width="1294" height="628" alt="image" src="https://github.com/user-attachments/assets/58e9e036-6d65-4479-977e-daad73fe5ede" />
-  <img src="<img width="1011" height="639" alt="image" src="https://github.com/user-attachments/assets/08a4b145-c44f-4833-be15-ea090051e634" />
-  <img src="<img width="1309" height="633" alt="image" src="https://github.com/user-attachments/assets/181ddb54-c66e-42f7-83eb-fb2de6f97ec6" />
-  <img src="<img width="1321" height="629" alt="image" src="https://github.com/user-attachments/assets/a1aa50d8-d399-410e-8160-a4f5e17185e0" />
-  <img src="<img width="1332" height="634" alt="image" src="https://github.com/user-attachments/assets/652ffa80-b7f1-4cf2-a4fa-d939c1b270bd" />
-  <img src="<img width="1331" height="635" alt="image" src="https://github.com/user-attachments/assets/70b1e6c1-beac-45c4-a378-9d192274da05" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
 </p>
 
 ⚙️ Installation & Setup
