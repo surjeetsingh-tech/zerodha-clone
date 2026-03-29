@@ -26,7 +26,7 @@ Database: MongoDB
 📸 Screenshots
 
 <p align="center">
-  <img src="IMG-20260328-WA0004.jpg" />
+  <img src="" />
   <img src="" />
   <img src="" />
   <img src="" />
