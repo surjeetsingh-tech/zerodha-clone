@@ -49,11 +49,11 @@ npm start
 
 ## Future Improvements
 
-* 📊 Real-time stock API integration
-* 💳 Payment gateway integration
-* 📈 Advanced analytics dashboard
+📊 Real-time stock API integration
+💳 Payment gateway integration
+📈 Advanced analytics dashboard
 
 👨‍💻 Author
 
-Surjeet Singh
+ Surjeet Singh
 🔗 http://www.linkedin.com/in/surjeet-singh-23b084369
